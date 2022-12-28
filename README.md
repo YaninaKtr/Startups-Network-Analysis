@@ -23,5 +23,5 @@ The project includes the several steps:
 
 **Results:** 
 * Members profile: geography and details, trends over time, membership types, behavior
-* Interactive Tableau Dashboard
+* Interactive Tableau Dashboard   https://public.tableau.com/views/StartupsNetworkDashboard/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 * Conclusions and recommendations
